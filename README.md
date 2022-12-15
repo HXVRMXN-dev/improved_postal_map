@@ -1,7 +1,7 @@
 # improved_postal_map
 Server side postal code map and minimap! Fixed as of 10/14/2022.
 
-ORIGINAL SCRIPT AND MAP CREDITS GO TO [OCRP](https://github.com/ocrp)! I, [Nick Reagan](https://github.com/NickReagan), has simply fixed and attempting to maintain it.
+ORIGINAL SCRIPT AND MAP CREDITS GO TO [OCRP](https://github.com/ocrp)! I, [Nick Reagan](https://github.com/NickReagan), has simply fixed and attempting to maintain it. And HXVRMXN added a simple hide on foot function which can be enabled or disabled in client.lua
 
 [Forum post for original resource.](https://forum.cfx.re/t/ocrp-postal-and-minimap-server-side/992775/74)
 
